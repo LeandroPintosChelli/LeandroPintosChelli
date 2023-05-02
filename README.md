@@ -1,6 +1,5 @@
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><img src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="100%" height="100%" style="position:absolute" /></div>
 <div id="header" aling="center">
-<img src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="270" />
+<img src="[https://giphy.com/embed/26tn33aiTi1jkl6H6](https://giphy.com/embed/h408T6Y5GfmXBKW62l)" width="480" height="270" />
 </div>
 ### Hi there 👋
 
