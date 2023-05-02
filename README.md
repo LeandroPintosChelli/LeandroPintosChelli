@@ -1,5 +1,5 @@
-<!-- [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)] -->
-<iframe src="https://giphy.com/embed/QpVUMRUJGokfqXyfa1" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/one-numbers-binary-code-QpVUMRUJGokfqXyfa1">via GIPHY</a></p>
+[![MasterHead](https://giphy.com/embed/QpVUMRUJGokfqXyfa1.gif)](https://www.linkedin.com/in/leandro-pintos-chelli-04691223a/)
+
 <h1 align="center">Hi 👋, I'm Leandro Pintos</h1>
 <h3 align="center">A passionate FullStack Developer from Uruguay</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
