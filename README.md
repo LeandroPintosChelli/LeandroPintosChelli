@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/embed/QpVUMRUJGokfqXyfa1.gif)](https://www.linkedin.com/in/leandro-pintos-chelli-04691223a/)
+[![MasterHead](https://giphy.com/embed/QpVUMRUJGokfqXyfa1)](https://www.linkedin.com/in/leandro-pintos-chelli-04691223a/)
 
 <h1 align="center">Hi 👋, I'm Leandro Pintos</h1>
 <h3 align="center">A passionate FullStack Developer from Uruguay</h3>
