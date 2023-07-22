@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **leandropintos162@gmail.com**
 
+- ![image](https://github.com/LeandroPintosChelli/LeandroPintosChelli/assets/86613539/09c09738-b612-4549-934b-9d2914e1e536)
+Take a look at my portfolio: https://astonishing-dusk-94988f.netlify.app/
 <p align="left">
 </p>
 
